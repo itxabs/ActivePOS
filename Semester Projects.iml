@@ -7,5 +7,16 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="kordamp.ikonli.core" level="application" />
   </component>
+  <dependency>
+      <groupId>org.kordamp.ikonli</groupId>
+      <artifactId>ikonli-dashicons-pack</artifactId>
+      <version>12.3.1</version>
+  </dependency>
+  <dependency>
+      <groupId>org.kordamp.ikonli</groupId>
+      <artifactId>ikonli-materialdesign-pack</artifactId>
+      <version>12.3.1</version>
+  </dependency>
 </module>
